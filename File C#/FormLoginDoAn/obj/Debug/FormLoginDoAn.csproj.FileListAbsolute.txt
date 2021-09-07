@@ -1,0 +1,88 @@
+C:\Users\Acer\Desktop\FormLoginDoAn\bin\Debug\FormLoginDoAn.exe.config
+C:\Users\Acer\Desktop\FormLoginDoAn\bin\Debug\FormLoginDoAn.exe
+C:\Users\Acer\Desktop\FormLoginDoAn\bin\Debug\FormLoginDoAn.pdb
+C:\Users\Acer\Desktop\FormLoginDoAn\obj\Debug\FormLoginDoAn.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\FormLoginDoAn\obj\Debug\FormLoginDoAn.Properties.Resources.resources
+C:\Users\Acer\Desktop\FormLoginDoAn\obj\Debug\FormLoginDoAn.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\FormLoginDoAn\obj\Debug\FormLoginDoAn.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\FormLoginDoAn\obj\Debug\FormLoginDoAn.exe
+C:\Users\Acer\Desktop\FormLoginDoAn\obj\Debug\FormLoginDoAn.pdb
+C:\Users\Acer\Desktop\FormLoginDoAn\obj\Debug\FormLoginDoAn.frmLogin.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\FormLoginDoAn\bin\Debug\FormLoginDoAn.exe.config
+D:\HK4\CSDL\DO AN\FormLoginDoAn\FormLoginDoAn\bin\Debug\FormLoginDoAn.exe
+D:\HK4\CSDL\DO AN\FormLoginDoAn\FormLoginDoAn\bin\Debug\FormLoginDoAn.pdb
+D:\HK4\CSDL\DO AN\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.frmAdmin.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.frmCustomer.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.frmLogin.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.Properties.Resources.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.Room.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.csproj.GenerateResource.cache
+D:\HK4\CSDL\DO AN\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.csproj.CoreCompileInputs.cache
+D:\HK4\CSDL\DO AN\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.exe
+D:\HK4\CSDL\DO AN\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.pdb
+D:\HK4\CSDL\DO AN\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.Invoice.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.CustomerAdmin.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.CheckOut.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.RentRoom.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.Statistic.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\bin\Debug\FormLoginDoAn.exe.config
+D:\HK4\CSDL\DO AN\FormLoginDoAn\bin\Debug\FormLoginDoAn.exe
+D:\HK4\CSDL\DO AN\FormLoginDoAn\bin\Debug\FormLoginDoAn.pdb
+D:\HK4\CSDL\DO AN\FormLoginDoAn\obj\Debug\FormLoginDoAn.CheckOut.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\obj\Debug\FormLoginDoAn.CustomerAdmin.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\obj\Debug\FormLoginDoAn.frmAdmin.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\obj\Debug\FormLoginDoAn.frmCustomer.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\obj\Debug\FormLoginDoAn.frmLogin.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\obj\Debug\FormLoginDoAn.Invoice.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\obj\Debug\FormLoginDoAn.Properties.Resources.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\obj\Debug\FormLoginDoAn.RentRoom.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\obj\Debug\FormLoginDoAn.Room.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\obj\Debug\FormLoginDoAn.Statistic.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\obj\Debug\FormLoginDoAn.csproj.GenerateResource.cache
+D:\HK4\CSDL\DO AN\FormLoginDoAn\obj\Debug\FormLoginDoAn.csproj.CoreCompileInputs.cache
+D:\HK4\CSDL\DO AN\FormLoginDoAn\obj\Debug\FormLoginDoAn.exe
+D:\HK4\CSDL\DO AN\FormLoginDoAn\obj\Debug\FormLoginDoAn.pdb
+D:\HK4\CSDL\DO AN\FormLoginDoAn\obj\Debug\FormLoginDoAn.Service.resources
+D:\HK4\CSDL\DO AN\FormLoginDoAn\obj\Debug\FormLoginDoAn.Background.resources
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.Background.resources
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.CheckOut.resources
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.CustomerAdmin.resources
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.frmAdmin.resources
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.frmCustomer.resources
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.frmLogin.resources
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.Invoice.resources
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.Properties.Resources.resources
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.RentRoom.resources
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.Room.resources
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.Service.resources
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.Statistic.resources
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.csproj.GenerateResource.cache
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.csproj.CoreCompileInputs.cache
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.exe
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.pdb
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\bin\Debug\FormLoginDoAn.exe.config
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\bin\Debug\FormLoginDoAn.exe
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\bin\Debug\FormLoginDoAn.pdb
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.csprojAssemblyReference.cache
+C:\Users\MaiTrinh\Desktop\FormLoginDoAn\FormLoginDoAn\obj\Debug\FormLoginDoAn.frmCusRent.resources
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\bin\Debug\FormLoginDoAn.exe.config
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\bin\Debug\FormLoginDoAn.exe
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\bin\Debug\FormLoginDoAn.pdb
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\obj\Debug\FormLoginDoAn.csprojAssemblyReference.cache
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\obj\Debug\FormLoginDoAn.Background.resources
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\obj\Debug\FormLoginDoAn.CheckOut.resources
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\obj\Debug\FormLoginDoAn.frmCusRent.resources
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\obj\Debug\FormLoginDoAn.CustomerAdmin.resources
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\obj\Debug\FormLoginDoAn.frmAdmin.resources
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\obj\Debug\FormLoginDoAn.frmCustomer.resources
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\obj\Debug\FormLoginDoAn.frmLogin.resources
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\obj\Debug\FormLoginDoAn.Invoice.resources
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\obj\Debug\FormLoginDoAn.Properties.Resources.resources
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\obj\Debug\FormLoginDoAn.RentRoom.resources
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\obj\Debug\FormLoginDoAn.Room.resources
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\obj\Debug\FormLoginDoAn.Service.resources
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\obj\Debug\FormLoginDoAn.Statistic.resources
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\obj\Debug\FormLoginDoAn.csproj.GenerateResource.cache
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\obj\Debug\FormLoginDoAn.csproj.CoreCompileInputs.cache
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\obj\Debug\FormLoginDoAn.exe
+C:\Users\MaiTrinh\Desktop\DB\File C#\FormLoginDoAn\obj\Debug\FormLoginDoAn.pdb
